@@ -1,0 +1,4 @@
+# ./composer.phar install
+bin
+composer.lock
+vendor
